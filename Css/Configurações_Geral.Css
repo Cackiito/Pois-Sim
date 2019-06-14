@@ -10,6 +10,13 @@ nav.Barra_03{
     float: left;
     color: white;
 }
+nav.Barra_Reportagem_01{
+    width: 15%;
+    height: 2800px;
+    background-color: white;
+    float: left;
+    color: white;
+}
 nav.Barra_Assine{
     width: 15%;
     height: 1600px;
